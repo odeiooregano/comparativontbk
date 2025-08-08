@@ -1,0 +1,38 @@
+[
+  {
+    "nome": "ASUS TUF A15 (RTX 2050, Ryzen 7)",
+    "imagem": "img/tuf.png",
+    "processador": "Ryzen 7 6800H",
+    "ram": "16GB DDR5",
+    "ssd": "512GB NVMe",
+    "tela": "15.6'' Full HD 144Hz",
+    "gpu": "RTX 2050 4GB",
+    "sistema": "Windows 11",
+    "perfil": "Gamer",
+    "descricao": "Notebook gamer robusto com boa refrigeração."
+  },
+  {
+    "nome": "Lenovo LOQ-E (RTX 3050, i5 12ª)",
+    "imagem": "img/lenovo.avif",
+    "processador": "Intel i5-12450H",
+    "ram": "16GB DDR4",
+    "ssd": "512GB NVMe",
+    "tela": "15.6'' Full HD 120Hz",
+    "gpu": "RTX 3050 6GB",
+    "sistema": "Windows 11",
+    "perfil": "Gamer",
+    "descricao": "Modelo gamer intermediário com ótima GPU."
+  },
+  {
+    "nome": "Acer Aspire 5 (Ryzen 7 5700U, 16GB)",
+    "imagem": "img/acer.jpg",
+    "processador": "Ryzen 7 5700U",
+    "ram": "16GB DDR4",
+    "ssd": "512GB NVMe",
+    "tela": "15.6'' Full HD IPS",
+    "gpu": "Integrada Vega 8",
+    "sistema": "Windows 11",
+    "perfil": "Programador",
+    "descricao": "Notebook focado em produtividade e multitarefa."
+  }
+]
